@@ -9,7 +9,11 @@
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-blue)
 ![macOS](https://img.shields.io/badge/macOS-Planned-lightgrey)
 ![WASAPI](https://img.shields.io/badge/Audio-WASAPI-green)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD-WINDOWS%2064--BIT-brightgreen?style=for-the-badge&logo=windows)](https://github.com/Joe68Lab/Guitar-rack-Tuner/releases/download/v1.8-wasapi/GuitarRackTuner_FutiliMotivi_1.8_Setup_Windows_WASAPI.exe)
 
+**Version 1.8 – WASAPI Pre-release | Free download**
+
+[Release notes and licenses](https://github.com/Joe68Lab/Guitar-rack-Tuner/releases/tag/v1.8-wasapi)
 ## Release Status
 
 ### Windows 1.8 — Futili Motivi Special Edition
