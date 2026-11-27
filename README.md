@@ -7,8 +7,24 @@
 
 ![Version](https://img.shields.io/badge/Version-1.8-blue)
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-blue)
-![macOS](https://img.shields.io/badge/Platform-macOS-lightgrey)
+![macOS](https://img.shields.io/badge/macOS-Planned-lightgrey)
+![WASAPI](https://img.shields.io/badge/Audio-WASAPI-green)
 
+## Release Status
+
+### Windows 1.8 — Futili Motivi Special Edition
+
+- Windows 10 / 11 (64-bit)
+- WASAPI Shared audio support
+- Automatic audio sample rate selection
+- USB audio interface support
+- No Python installation required
+- Microsoft Visual C++ Redistributable included
+
+The WASAPI edition is currently in pre-release validation.
+ASIO support is not included in this edition.
+
+The macOS edition is planned for a future release.
 ## Overview
 
 Guitar Rack Tuner is a chromatic tuning application designed for guitar and bass players, featuring a professional rack-style interface.
