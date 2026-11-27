@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Joe68Lab_GitHub.jpg" width="220" alt="Joe '68 Lab">
+</p>
 
 # 🎸 Guitar Rack Tuner
 
